@@ -6,7 +6,7 @@ kurdforums Shell : kurdforums
 
 Indoxploit Shell : indoxploit
 
-posion Shell :
+poison Shell :
 user :- test
 pass :- test
 
