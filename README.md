@@ -1,6 +1,7 @@
 # KurdForums-WebShell-Backdoor
 KurdForums WebShell Backdoor
 #############################################
+-----------
 Passwords
 kurdforums Shell : kurdforums
 -----------------------------
